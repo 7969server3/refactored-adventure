@@ -3538,3 +3538,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [19Mar2025 15:04:21.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [19Mar2025 15:04:34.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> chequea la casa si se nota la diferencia
 [19Mar2025 15:04:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamkalat> maso
+[19Mar2025 15:12:08.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat lost connection: Disconnected
+[19Mar2025 15:12:08.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat left the game
+[19Mar2025 15:16:53.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[19Mar2025 15:17:53.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[19Mar2025 15:17:53.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[19Mar2025 15:20:27.039] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d03e35a
+[19Mar2025 15:20:27.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:41939] logged in with entity id 3352 at (-191.788867031164, 65.0, -522.3222547251372)
+[19Mar2025 15:20:27.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[19Mar2025 15:20:27.057] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[19Mar2025 15:20:27.057] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[19Mar2025 15:20:28.247] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[19Mar2025 15:20:28.247] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[19Mar2025 15:20:28.248] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[19Mar2025 15:20:28.248] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

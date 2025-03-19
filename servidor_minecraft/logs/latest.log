@@ -3589,3 +3589,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [19Mar2025 16:32:11.484] [Server thread/WARN] [tombstone/]: The death event of the player tumamkalat was canceled by another mod
 [19Mar2025 16:32:11.485] [Server thread/INFO] [tombstone/]: The player tumamkalat has successfully been saved
 [19Mar2025 16:32:28.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to tumamkalat
+[19Mar2025 16:32:39.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[19Mar2025 16:32:39.985] [Server thread/WARN] [tombstone/]: The death event of the player tumamkalat was canceled by another mod
+[19Mar2025 16:32:39.985] [Server thread/INFO] [tombstone/]: The player tumamkalat has successfully been saved
+[19Mar2025 16:32:43.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamkalat> xd
+[19Mar2025 16:37:39.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has made the advancement [Ambush]
+[19Mar2025 16:39:32.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aña

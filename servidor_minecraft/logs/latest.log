@@ -3552,3 +3552,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [19Mar2025 15:20:28.247] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [19Mar2025 15:20:28.248] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [19Mar2025 15:20:28.248] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[19Mar2025 15:48:48.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[19Mar2025 15:48:48.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game

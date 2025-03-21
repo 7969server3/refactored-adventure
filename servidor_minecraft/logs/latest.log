@@ -3518,3 +3518,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [21Mar2025 13:05:55.942] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9102 ms
 [21Mar2025 13:05:55.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.999s)! For help, type "help"
 [21Mar2025 13:05:55.990] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Mar2025 14:55:24.986] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7cf803f8
+[21Mar2025 14:55:25.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:43479] logged in with entity id 397 at (-181.37469959588316, 65.0, -524.6198659274953)
+[21Mar2025 14:55:25.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[21Mar2025 14:55:25.107] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[21Mar2025 14:55:25.109] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[21Mar2025 14:55:25.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [Easter]
+[21Mar2025 14:55:27.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[21Mar2025 14:55:27.343] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[21Mar2025 14:55:27.344] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[21Mar2025 14:55:27.374] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[21Mar2025 14:55:27.375] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[21Mar2025 14:55:40.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[21Mar2025 14:55:40.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game

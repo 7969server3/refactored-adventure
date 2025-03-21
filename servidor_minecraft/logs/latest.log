@@ -3626,3 +3626,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [21Mar2025 14:58:03.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
 [21Mar2025 14:58:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
 [21Mar2025 14:58:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /revive <players>
+[21Mar2025 15:06:52.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] s

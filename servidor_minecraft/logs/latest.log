@@ -3536,3 +3536,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [22Mar2025 15:55:01.787] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [22Mar2025 15:55:01.787] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [22Mar2025 15:55:01.787] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[22Mar2025 16:06:31.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[22Mar2025 16:06:31.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[22Mar2025 16:06:35.774] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@52a8a0e4
+[22Mar2025 16:06:35.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:55551] logged in with entity id 2563 at (-182.72591146546478, 65.0, -531.8966559593998)
+[22Mar2025 16:06:35.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[22Mar2025 16:06:35.793] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[22Mar2025 16:06:35.793] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[22Mar2025 16:06:37.120] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[22Mar2025 16:06:37.120] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[22Mar2025 16:06:37.121] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[22Mar2025 16:06:37.121] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[22Mar2025 16:08:10.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2565, l='ServerLevel[world]', x=-178.13, y=65.00, z=-517.31] died, message: 'Villager was burnt to a crisp whilst fighting arturrssb'
+[22Mar2025 16:08:49.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[22Mar2025 16:08:49.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game

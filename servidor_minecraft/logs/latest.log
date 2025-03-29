@@ -1,56 +1,56 @@
-[22Mar2025 15:36:11.340] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[22Mar2025 15:36:11.346] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[22Mar2025 15:36:11.780] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[22Mar2025 15:36:11.781] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/refactored-adventure/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar%23117!/
-[22Mar2025 15:36:11.787] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/refactored-adventure/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar
-[22Mar2025 15:36:11.789] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[22Mar2025 15:36:11.845] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/refactored-adventure/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[22Mar2025 15:36:11.854] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[22Mar2025 15:36:12.135] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[22Mar2025 15:36:12.136] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[22Mar2025 15:36:12.138] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[22Mar2025 15:36:12.139] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[22Mar2025 15:36:12.310] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[22Mar2025 15:36:12.820] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[22Mar2025 15:36:12.834] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 384
-[22Mar2025 15:36:13.274] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[22Mar2025 15:36:13.816] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Mar2025 15:36:13.854] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[22Mar2025 15:36:19.584] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[22Mar2025 15:36:21.354] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: Registered paragon
-[22Mar2025 15:36:21.419] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: acee#1220
-[22Mar2025 15:36:21.419] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: Paragon has been initialized
-[22Mar2025 15:36:21.796] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: Registered deeperdarker
-[22Mar2025 15:36:21.870] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker entities have been registered
-[22Mar2025 15:36:21.905] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[22Mar2025 15:36:21.906] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[22Mar2025 15:36:21.928] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[22Mar2025 15:36:21.989] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker blocks have been registered
-[22Mar2025 15:36:21.991] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker block entities have been registered
-[22Mar2025 15:36:21.995] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker sounds have been registered
-[22Mar2025 15:36:22.033] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker items have been registered
-[22Mar2025 15:36:22.875] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_processor / minecraft:capped]' to registry
-[22Mar2025 15:36:22.875] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.min01.archaeology.init.ArchaeologyStructureProcessorType$$Lambda$5705/0x00007cd7b8c35288@68fa9450' to registry
-[22Mar2025 15:36:23.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[22Mar2025 15:36:23.987] [main/INFO] [journeymap/]: Initializing Packet Registries
-[22Mar2025 15:36:24.057] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[22Mar2025 15:36:24.058] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[22Mar2025 15:36:24.058] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[22Mar2025 15:36:24.058] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[22Mar2025 15:36:24.068] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER
-[22Mar2025 15:36:24.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
-[22Mar2025 15:36:24.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[22Mar2025 15:36:24.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
-[22Mar2025 15:36:24.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[22Mar2025 15:36:24.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.2.37 Target: 8.2.40
-[22Mar2025 15:36:24.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[22Mar2025 15:36:24.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.2.17 Target: 8.3.7
-[22Mar2025 15:36:24.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Mar2025 15:36:25.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[22Mar2025 15:36:25.866] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Mar2025 15:36:26.723] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
-[22Mar2025 15:36:26.723] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
-[22Mar2025 15:36:29.265] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/brick_slabs_to_tile
+[29Mar2025 17:24:37.675] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[29Mar2025 17:24:37.679] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[29Mar2025 17:24:38.184] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[29Mar2025 17:24:38.185] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/refactored-adventure/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar%23117!/
+[29Mar2025 17:24:38.193] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/refactored-adventure/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar
+[29Mar2025 17:24:38.195] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[29Mar2025 17:24:38.257] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/refactored-adventure/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[29Mar2025 17:24:38.267] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[29Mar2025 17:24:38.583] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[29Mar2025 17:24:38.585] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[29Mar2025 17:24:38.586] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[29Mar2025 17:24:38.587] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[29Mar2025 17:24:38.819] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[29Mar2025 17:24:39.448] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[29Mar2025 17:24:39.458] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 384
+[29Mar2025 17:24:39.951] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[29Mar2025 17:24:40.529] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Mar2025 17:24:40.567] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Mar2025 17:24:46.037] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[29Mar2025 17:24:47.897] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: Registered paragon
+[29Mar2025 17:24:47.980] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: acee#1220
+[29Mar2025 17:24:47.986] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: Paragon has been initialized
+[29Mar2025 17:24:48.403] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: Registered deeperdarker
+[29Mar2025 17:24:48.449] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker entities have been registered
+[29Mar2025 17:24:48.453] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[29Mar2025 17:24:48.453] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[29Mar2025 17:24:48.477] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[29Mar2025 17:24:48.501] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker blocks have been registered
+[29Mar2025 17:24:48.502] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker block entities have been registered
+[29Mar2025 17:24:48.503] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker sounds have been registered
+[29Mar2025 17:24:48.535] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker items have been registered
+[29Mar2025 17:24:49.133] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/structure_processor / minecraft:capped]' to registry
+[29Mar2025 17:24:49.133] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'com.min01.archaeology.init.ArchaeologyStructureProcessorType$$Lambda$5709/0x00007473f4c374d8@143170b7' to registry
+[29Mar2025 17:24:49.984] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[29Mar2025 17:24:50.171] [main/INFO] [journeymap/]: Initializing Packet Registries
+[29Mar2025 17:24:50.228] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[29Mar2025 17:24:50.228] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[29Mar2025 17:24:50.229] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[29Mar2025 17:24:50.229] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[29Mar2025 17:24:50.237] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER
+[29Mar2025 17:24:50.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[29Mar2025 17:24:50.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[29Mar2025 17:24:50.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[29Mar2025 17:24:50.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[29Mar2025 17:24:50.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.2.37 Target: 8.2.40
+[29Mar2025 17:24:50.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[29Mar2025 17:24:50.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.2.17 Target: 8.3.7
+[29Mar2025 17:24:50.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Mar2025 17:24:50.959] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[29Mar2025 17:24:51.820] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Mar2025 17:24:52.940] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23137!/assets/.mcassetsroot' uses unexpected schema
+[29Mar2025 17:24:52.940] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/refactored-adventure/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23137!/data/.mcassetsroot' uses unexpected schema
+[29Mar2025 17:24:55.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/brick_slabs_to_tile
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -77,7 +77,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.270] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/from_chiseled
+[29Mar2025 17:24:55.111] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/from_chiseled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -104,7 +104,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.272] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/smooth_slabs_to_cut
+[29Mar2025 17:24:55.112] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/smooth_slabs_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -131,7 +131,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.276] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/cut_wall_to_polished
+[29Mar2025 17:24:55.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/cut_wall_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -158,7 +158,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.283] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_trapdoor
+[29Mar2025 17:24:55.116] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_trapdoor
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -185,7 +185,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.286] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_emerald_ore
+[29Mar2025 17:24:55.117] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_emerald_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -212,7 +212,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.287] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/tile_stairs_to_cobbled
+[29Mar2025 17:24:55.118] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/tile_stairs_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -239,7 +239,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.289] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/polished_stairs_to_brick
+[29Mar2025 17:24:55.119] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/polished_stairs_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -266,7 +266,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.290] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/polished_wall_to_brick
+[29Mar2025 17:24:55.121] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/polished_wall_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -293,7 +293,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.296] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/echo_log
+[29Mar2025 17:24:55.125] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/echo_log
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -320,7 +320,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.300] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_diamond_ore
+[29Mar2025 17:24:55.127] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_diamond_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -347,7 +347,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.305] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/slabs_to_smooth
+[29Mar2025 17:24:55.128] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/slabs_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -374,7 +374,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.307] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/slabs_to_smooth
+[29Mar2025 17:24:55.129] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/slabs_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -401,7 +401,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.308] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_sign
+[29Mar2025 17:24:55.129] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_sign
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -428,7 +428,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.309] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/log/echo
+[29Mar2025 17:24:55.130] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/log/echo
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:sawing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -455,7 +455,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.312] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_copper_ore
+[29Mar2025 17:24:55.131] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_copper_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -482,7 +482,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.313] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/tile_stairs_to_cobbled
+[29Mar2025 17:24:55.132] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/tile_stairs_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -509,7 +509,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.318] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/brick_slabs_to_polished
+[29Mar2025 17:24:55.133] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/brick_slabs_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -536,7 +536,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.320] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/tile_slabs_to_brick
+[29Mar2025 17:24:55.134] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/tile_slabs_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -563,7 +563,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.326] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/to_smooth
+[29Mar2025 17:24:55.134] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -590,7 +590,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.331] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/pressure_plate/echo
+[29Mar2025 17:24:55.135] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/pressure_plate/echo
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:sawing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -617,7 +617,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.333] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/polished_slabs_to_cut
+[29Mar2025 17:24:55.136] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/polished_slabs_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -644,7 +644,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.337] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/to_smooth
+[29Mar2025 17:24:55.138] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -671,7 +671,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.342] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/wall_to_smooth
+[29Mar2025 17:24:55.138] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/wall_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -698,7 +698,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.343] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_redstone_ore
+[29Mar2025 17:24:55.140] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_redstone_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -725,7 +725,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.349] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/polished_wall_to_brick
+[29Mar2025 17:24:55.141] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/polished_wall_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -752,7 +752,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.357] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/cut_wall_to_smooth
+[29Mar2025 17:24:55.144] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/cut_wall_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -779,7 +779,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.360] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe deeperdarker:sculk_affinity
+[29Mar2025 17:24:55.145] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe deeperdarker:sculk_affinity
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:effect_provider'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -806,7 +806,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'jeed:ef
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.363] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/stripped_echo_log
+[29Mar2025 17:24:55.148] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/stripped_echo_log
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -833,7 +833,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.368] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/polished_slabs_to_brick
+[29Mar2025 17:24:55.150] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/polished_slabs_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -860,7 +860,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.372] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/tile_slabs_to_cobbled
+[29Mar2025 17:24:55.151] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/tile_slabs_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -887,7 +887,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.376] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/cut_stairs_to_smooth
+[29Mar2025 17:24:55.153] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/cut_stairs_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -914,7 +914,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.377] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/cut_slabs_to_polished
+[29Mar2025 17:24:55.154] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/cut_slabs_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -941,7 +941,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.379] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/polished_to_cut
+[29Mar2025 17:24:55.155] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/polished_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -968,7 +968,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.381] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_lapis_ore
+[29Mar2025 17:24:55.156] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_lapis_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -995,7 +995,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.934] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/boat/echo
+[29Mar2025 17:24:55.607] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/boat/echo
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:sawing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1022,7 +1022,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.936] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/polished_slabs_to_cut
+[29Mar2025 17:24:55.608] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/polished_slabs_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1049,7 +1049,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.937] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/from_cobbled_wall
+[29Mar2025 17:24:55.609] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/from_cobbled_wall
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1076,7 +1076,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.938] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/polished_to_bricks
+[29Mar2025 17:24:55.610] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/polished_to_bricks
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1103,7 +1103,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.940] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersiveengineering:sawmill/echo_log
+[29Mar2025 17:24:55.611] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersiveengineering:sawmill/echo_log
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1130,7 +1130,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.941] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/brick_stairs_to_polished
+[29Mar2025 17:24:55.612] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/brick_stairs_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1157,7 +1157,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.942] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/door/echo
+[29Mar2025 17:24:55.613] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/door/echo
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:sawing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1184,7 +1184,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/bricks_to_polished
+[29Mar2025 17:24:55.614] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/bricks_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1211,7 +1211,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.948] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/cut_to_smooth
+[29Mar2025 17:24:55.618] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/cut_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1238,7 +1238,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.949] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/from_cobbled
+[29Mar2025 17:24:55.619] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/from_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1265,7 +1265,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.950] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/polished_wall_to_cut
+[29Mar2025 17:24:55.620] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/polished_wall_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1292,7 +1292,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.952] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/cut_to_smooth
+[29Mar2025 17:24:55.621] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/cut_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1319,7 +1319,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.954] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/brick_stairs_to_polished
+[29Mar2025 17:24:55.622] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/brick_stairs_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1346,7 +1346,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.955] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/chest_boat/echo
+[29Mar2025 17:24:55.624] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/chest_boat/echo
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:sawing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1373,7 +1373,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.956] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/stairs_to_smooth
+[29Mar2025 17:24:55.625] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/stairs_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1400,7 +1400,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.958] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/cut_to_polished
+[29Mar2025 17:24:55.626] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/cut_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1427,7 +1427,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.959] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/brick_stairs_to_tile
+[29Mar2025 17:24:55.626] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/brick_stairs_to_tile
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1454,7 +1454,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.960] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/brick_slabs_to_tile
+[29Mar2025 17:24:55.627] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/brick_slabs_to_tile
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1481,7 +1481,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.961] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/cut_to_polished
+[29Mar2025 17:24:55.628] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/cut_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1508,7 +1508,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.962] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/cut_slabs_to_smooth
+[29Mar2025 17:24:55.629] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/cut_slabs_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1535,7 +1535,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.964] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/stairs_to_cobbled
+[29Mar2025 17:24:55.630] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/stairs_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1562,7 +1562,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.965] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/polished_stairs_to_brick
+[29Mar2025 17:24:55.631] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/polished_stairs_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1589,7 +1589,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.966] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/cut_wall_to_smooth
+[29Mar2025 17:24:55.632] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/cut_wall_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1616,7 +1616,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.967] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/polished_stairs_to_cut
+[29Mar2025 17:24:55.633] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/polished_stairs_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1643,7 +1643,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.968] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/smooth_wall_to_cut
+[29Mar2025 17:24:55.634] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/smooth_wall_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1670,7 +1670,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.970] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/smooth_to_cut
+[29Mar2025 17:24:55.635] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/smooth_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1697,7 +1697,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.972] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/smooth_slabs_to_cut
+[29Mar2025 17:24:55.636] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/smooth_slabs_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1724,7 +1724,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.980] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/tile_stairs_to_brick
+[29Mar2025 17:24:55.639] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/tile_stairs_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1751,7 +1751,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:29.981] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/to_cobbled
+[29Mar2025 17:24:55.640] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1778,7 +1778,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.464] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/smooth_stairs_to_cut
+[29Mar2025 17:24:55.641] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/smooth_stairs_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1805,7 +1805,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.465] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/brick_stairs_to_tile
+[29Mar2025 17:24:55.914] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/brick_stairs_to_tile
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1832,7 +1832,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.467] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/trapdoor/echo
+[29Mar2025 17:24:55.916] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/trapdoor/echo
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:sawing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1859,7 +1859,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.467] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/wall_to_smooth
+[29Mar2025 17:24:55.917] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/wall_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1886,7 +1886,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.469] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/brick_wall_to_polished
+[29Mar2025 17:24:55.918] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/brick_wall_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1913,7 +1913,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.470] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/cut_stairs_to_polished
+[29Mar2025 17:24:55.919] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/cut_stairs_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1940,7 +1940,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.470] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/cut_wall_to_polished
+[29Mar2025 17:24:55.920] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/cut_wall_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1967,7 +1967,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.471] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/bricks_to_polished
+[29Mar2025 17:24:55.922] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/bricks_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1994,7 +1994,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.472] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/tile_slabs_to_cobbled
+[29Mar2025 17:24:55.923] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/tile_slabs_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2021,7 +2021,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.474] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/tile_wall_to_brick
+[29Mar2025 17:24:55.924] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/tile_wall_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2048,7 +2048,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.475] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/tile_wall_to_cobbled
+[29Mar2025 17:24:55.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/tile_wall_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2075,7 +2075,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.475] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/cut_stairs_to_polished
+[29Mar2025 17:24:55.926] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/cut_stairs_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2102,7 +2102,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.476] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/polished_wall_to_cut
+[29Mar2025 17:24:55.927] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/polished_wall_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2129,7 +2129,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.476] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersiveengineering:sawmill/echo_stairs
+[29Mar2025 17:24:55.928] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersiveengineering:sawmill/echo_stairs
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2156,7 +2156,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.477] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/tile_slabs_to_brick
+[29Mar2025 17:24:55.929] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/tile_slabs_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2183,7 +2183,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.478] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_iron_ore
+[29Mar2025 17:24:55.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_iron_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2210,7 +2210,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.479] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/wall_to_cobbled
+[29Mar2025 17:24:55.931] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/wall_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2237,7 +2237,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.481] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/polished_to_bricks
+[29Mar2025 17:24:55.934] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/polished_to_bricks
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2264,7 +2264,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.482] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/from_cobbled_wall
+[29Mar2025 17:24:55.934] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/from_cobbled_wall
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2291,7 +2291,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.482] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/cut_slabs_to_polished
+[29Mar2025 17:24:55.935] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/cut_slabs_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2318,7 +2318,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.485] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/wall_to_cobbled
+[29Mar2025 17:24:55.936] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/wall_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2345,7 +2345,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.487] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_coal_ore
+[29Mar2025 17:24:55.937] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_coal_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2372,7 +2372,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.492] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/stairs_to_cobbled
+[29Mar2025 17:24:55.938] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/stairs_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2399,7 +2399,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.493] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersiveengineering:sawmill/stripped_echo_log
+[29Mar2025 17:24:55.939] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersiveengineering:sawmill/stripped_echo_log
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2426,7 +2426,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.494] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/polished_slabs_to_brick
+[29Mar2025 17:24:55.940] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/polished_slabs_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2453,7 +2453,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.495] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/tile_to_cobbled
+[29Mar2025 17:24:55.941] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/tile_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2480,7 +2480,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.495] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/from_cobbled
+[29Mar2025 17:24:55.942] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/from_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2507,7 +2507,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.497] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/echo_wood
+[29Mar2025 17:24:55.942] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/echo_wood
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2534,7 +2534,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.498] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/from_cobbled_stairs
+[29Mar2025 17:24:55.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/from_cobbled_stairs
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2561,7 +2561,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.499] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/brick_wall_to_tile
+[29Mar2025 17:24:55.944] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/brick_wall_to_tile
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2588,7 +2588,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.991] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/tile_wall_to_cobbled
+[29Mar2025 17:24:56.140] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/tile_wall_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2615,7 +2615,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.993] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/tile_stairs_to_brick
+[29Mar2025 17:24:56.142] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/tile_stairs_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2642,7 +2642,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:30.996] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_door
+[29Mar2025 17:24:56.143] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_door
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2669,7 +2669,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.002] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/smooth_stairs_to_cut
+[29Mar2025 17:24:56.149] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/smooth_stairs_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2696,7 +2696,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.010] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/polished_stairs_to_cut
+[29Mar2025 17:24:56.151] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/polished_stairs_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2723,7 +2723,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.011] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/tile_to_cobbled
+[29Mar2025 17:24:56.153] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/tile_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2750,7 +2750,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.012] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersiveengineering:sawmill/echo_door
+[29Mar2025 17:24:56.155] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersiveengineering:sawmill/echo_door
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2777,7 +2777,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersi
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/smooth_wall_to_cut
+[29Mar2025 17:24:56.157] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/smooth_wall_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2804,7 +2804,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.016] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/stripped_echo_wood
+[29Mar2025 17:24:56.161] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:cutting/stripped_echo_wood
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2831,7 +2831,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.017] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/to_cobbled
+[29Mar2025 17:24:56.161] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2858,7 +2858,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.017] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/tile_wall_to_brick
+[29Mar2025 17:24:56.162] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/tile_wall_to_brick
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2885,7 +2885,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.018] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/polished_to_cut
+[29Mar2025 17:24:56.163] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/polished_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2912,7 +2912,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.019] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/cut_slabs_to_smooth
+[29Mar2025 17:24:56.165] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/cut_slabs_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2939,7 +2939,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.020] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/slabs_to_cobbled
+[29Mar2025 17:24:56.167] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/slabs_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2966,7 +2966,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.021] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/fence_gate/echo
+[29Mar2025 17:24:56.170] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/fence_gate/echo
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:sawing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -2993,7 +2993,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_gold_ore
+[29Mar2025 17:24:56.171] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/sculk_stone_gold_ore
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3020,7 +3020,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.024] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/from_cobbled_slabs
+[29Mar2025 17:24:56.173] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/from_cobbled_slabs
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3047,7 +3047,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.026] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/brick_slabs_to_polished
+[29Mar2025 17:24:56.174] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/brick_slabs_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3074,7 +3074,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.029] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/cut_stairs_to_smooth
+[29Mar2025 17:24:56.175] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/cut_stairs_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3101,7 +3101,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.031] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_wood
+[29Mar2025 17:24:56.177] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_wood
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3128,7 +3128,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.033] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/from_cobbled_stairs
+[29Mar2025 17:24:56.179] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/from_cobbled_stairs
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3155,7 +3155,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.034] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/stairs_to_smooth
+[29Mar2025 17:24:56.180] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/stairs_to_smooth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3182,7 +3182,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.036] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/brick_wall_to_polished
+[29Mar2025 17:24:56.181] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/brick_wall_to_polished
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3209,7 +3209,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.036] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/smooth_to_cut
+[29Mar2025 17:24:56.182] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/smooth_to_cut
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3236,7 +3236,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.038] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/brick_wall_to_tile
+[29Mar2025 17:24:56.187] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/brick_wall_to_tile
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3263,7 +3263,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.039] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/from_chiseled
+[29Mar2025 17:24:56.189] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/from_chiseled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3290,7 +3290,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.040] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_log
+[29Mar2025 17:24:56.191] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_log
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cutting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3317,7 +3317,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.040] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/slabs_to_cobbled
+[29Mar2025 17:24:56.191] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/slabs_to_cobbled
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3344,7 +3344,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.510] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/tiles_to_bricks
+[29Mar2025 17:24:56.192] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/gloomslate/tiles_to_bricks
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3371,7 +3371,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.511] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/bricks_to_tiles
+[29Mar2025 17:24:56.367] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/sculk_stone/bricks_to_tiles
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3398,7 +3398,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.512] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/from_cobbled_slabs
+[29Mar2025 17:24:56.369] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/from_cobbled_slabs
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3425,7 +3425,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.512] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/tiles_to_bricks
+[29Mar2025 17:24:56.370] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:enriching/conversion/sculk_stone/tiles_to_bricks
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3452,7 +3452,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.513] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/bricks_to_tiles
+[29Mar2025 17:24:56.371] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:crushing/gloomslate/bricks_to_tiles
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.19.2-20220805.130853-srg.jar%23137!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -3479,86 +3479,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
-[22Mar2025 15:36:31.515] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[22Mar2025 15:36:31.970] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement mutantmore:nether/upgrade_rodling: Expected requirements[0] to be a JsonArray, was "rod...et"
-[22Mar2025 15:36:32.025] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:adventure/craft_decorated_pot_using_only_sherds: Invalid criterion trigger: minecraft:recipe_crafted
-[22Mar2025 15:36:32.121] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1799 advancements
-[22Mar2025 15:36:32.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[22Mar2025 15:36:32.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Mar2025 15:36:32.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Mar2025 15:36:32.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Mar2025 15:36:32.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Mar2025 15:36:33.002] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Mar2025 15:36:33.083] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Mar2025 15:36:33.083] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Mar2025 15:36:33.083] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Mar2025 15:36:33.084] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Mar2025 15:36:33.104] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Mar2025 15:36:33.105] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Mar2025 15:36:33.106] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Mar2025 15:36:33.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Mar2025 15:36:33.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Mar2025 15:36:38.481] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.499] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.509] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.515] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.523] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.528] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.547] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.551] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.573] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.578] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:38.755] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:39.219] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 15:36:39.719] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
-[22Mar2025 15:36:40.222] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[22Mar2025 15:36:40.447] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6729 ms
-[22Mar2025 15:36:40.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.354s)! For help, type "help"
-[22Mar2025 15:36:40.464] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Mar2025 15:41:27.899] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10c106
-[22Mar2025 15:41:27.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:54739] logged in with entity id 399 at (-179.6916002293672, 65.0, -522.9367665609798)
-[22Mar2025 15:41:27.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
-[22Mar2025 15:41:28.030] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
-[22Mar2025 15:41:28.030] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
-[22Mar2025 15:41:29.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[22Mar2025 15:41:30.233] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
-[22Mar2025 15:41:30.234] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
-[22Mar2025 15:41:30.234] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
-[22Mar2025 15:41:30.234] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
-[22Mar2025 15:45:54.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
-[22Mar2025 15:45:54.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
-[22Mar2025 15:54:59.228] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@145f0bc6
-[22Mar2025 15:54:59.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:45361] logged in with entity id 1049 at (-184.5649786320912, 65.0, -522.9583315425153)
-[22Mar2025 15:54:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
-[22Mar2025 15:54:59.254] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
-[22Mar2025 15:54:59.255] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
-[22Mar2025 15:55:01.786] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
-[22Mar2025 15:55:01.787] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
-[22Mar2025 15:55:01.787] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
-[22Mar2025 15:55:01.787] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
-[22Mar2025 16:06:31.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
-[22Mar2025 16:06:31.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
-[22Mar2025 16:06:35.774] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@52a8a0e4
-[22Mar2025 16:06:35.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:55551] logged in with entity id 2563 at (-182.72591146546478, 65.0, -531.8966559593998)
-[22Mar2025 16:06:35.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
-[22Mar2025 16:06:35.793] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
-[22Mar2025 16:06:35.793] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
-[22Mar2025 16:06:37.120] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
-[22Mar2025 16:06:37.120] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
-[22Mar2025 16:06:37.121] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
-[22Mar2025 16:06:37.121] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
-[22Mar2025 16:08:10.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2565, l='ServerLevel[world]', x=-178.13, y=65.00, z=-517.31] died, message: 'Villager was burnt to a crisp whilst fighting arturrssb'
-[22Mar2025 16:08:49.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
-[22Mar2025 16:08:49.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
-[22Mar2025 16:44:18.217] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39a45397
-[22Mar2025 16:44:18.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:49609] logged in with entity id 3069 at (-180.80831792496227, 65.0, -522.9995397979487)
-[22Mar2025 16:44:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
-[22Mar2025 16:44:18.234] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
-[22Mar2025 16:44:18.234] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
-[22Mar2025 16:44:20.732] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
-[22Mar2025 16:44:20.732] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
-[22Mar2025 16:44:20.732] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
-[22Mar2025 16:44:20.732] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
-[22Mar2025 16:52:40.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [A Seedy Place]
-[22Mar2025 16:57:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Easter Egg Searcher]
-[22Mar2025 17:13:42.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [What a Deal!]
+[29Mar2025 17:24:56.374] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[29Mar2025 17:24:56.794] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement mutantmore:nether/upgrade_rodling: Expected requirements[0] to be a JsonArray, was "rod...et"
+[29Mar2025 17:24:56.831] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement minecraft:adventure/craft_decorated_pot_using_only_sherds: Invalid criterion trigger: minecraft:recipe_crafted
+[29Mar2025 17:24:56.890] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1799 advancements
+[29Mar2025 17:24:57.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[29Mar2025 17:24:57.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Mar2025 17:24:57.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Mar2025 17:24:57.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Mar2025 17:24:57.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Mar2025 17:24:57.876] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Mar2025 17:24:57.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Mar2025 17:24:57.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Mar2025 17:24:57.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Mar2025 17:24:57.956] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Mar2025 17:24:58.111] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Mar2025 17:24:58.112] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Mar2025 17:24:58.113] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Mar2025 17:24:58.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Mar2025 17:24:58.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Mar2025 17:25:03.812] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.816] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.818] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.821] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.826] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.828] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.829] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.833] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.834] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.835] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:03.882] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 17:25:04.380] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[29Mar2025 17:25:04.880] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[29Mar2025 17:25:05.190] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6311 ms
+[29Mar2025 17:25:05.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.088s)! For help, type "help"
+[29Mar2025 17:25:05.209] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Mar2025 17:25:28.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] F

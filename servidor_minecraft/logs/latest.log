@@ -3574,3 +3574,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [09Apr2025 18:40:32.214] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [09Apr2025 18:40:32.214] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
 [09Apr2025 18:40:32.214] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[09Apr2025 18:47:35.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[09Apr2025 18:47:35.743] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[09Apr2025 18:47:35.752] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[09Apr2025 18:48:36.025] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for arturrssb with unique ID a46a8f4e-5813-4463-8a9d-eaf89b3c638b
+[09Apr2025 18:48:36.028] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 173 Y: 88 Z: -302
+[09Apr2025 18:48:36.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was slain by Iron Golem

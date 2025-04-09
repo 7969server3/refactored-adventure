@@ -3556,3 +3556,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [09Apr2025 14:10:18.272] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [09Apr2025 14:10:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [09Apr2025 14:10:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[09Apr2025 14:37:59.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7740, l='ServerLevel[world]', x=103.09, y=63.00, z=-302.50] died, message: 'Villager was slain by Drowned'
+[09Apr2025 14:38:12.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7808, l='ServerLevel[world]', x=105.95, y=62.05, z=-296.70] died, message: 'Villager was slain by Zombie Villager'
+[09Apr2025 14:38:21.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/7773, l='ServerLevel[world]', x=102.85, y=63.00, z=-300.85] died, message: 'Cleric was slain by Zombie Villager'

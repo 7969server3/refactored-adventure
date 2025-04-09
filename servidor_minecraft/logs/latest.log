@@ -3545,3 +3545,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [09Apr2025 13:43:27.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] activated
 [09Apr2025 14:04:17.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
 [09Apr2025 14:04:17.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[09Apr2025 14:10:15.498] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78a65026
+[09Apr2025 14:10:15.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.27.202.134:45375] logged in with entity id 7724 at (92.69999998807907, 64.0, -296.69999998807907)
+[09Apr2025 14:10:15.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[09Apr2025 14:10:15.521] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[09Apr2025 14:10:15.522] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[09Apr2025 14:10:18.272] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[09Apr2025 14:10:18.272] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[09Apr2025 14:10:18.272] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[09Apr2025 14:10:18.272] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[09Apr2025 14:10:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Apr2025 14:10:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]

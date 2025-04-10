@@ -363,6 +363,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-12 03:29:08 +0000",
       "cooked_beef": "2025-03-11 14:42:54 +0000",
+      "apple": "2025-04-10 17:37:43 +0000",
       "bread": "2025-03-11 14:13:01 +0000"
     },
     "done": false
@@ -1600,6 +1601,7 @@
       "minecraft:lush_caves": "2025-03-11 14:41:55 +0000",
       "minecraft:jungle": "2025-03-11 14:50:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-11 14:39:43 +0000",
+      "minecraft:meadow": "2025-04-10 17:38:05 +0000",
       "minecraft:plains": "2025-03-11 14:03:57 +0000"
     },
     "done": false
@@ -1619,6 +1621,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-11 14:43:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-04-10 17:40:21 +0000"
     },
     "done": true
   },

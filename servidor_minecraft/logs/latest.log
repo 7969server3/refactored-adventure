@@ -3659,3 +3659,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Apr2025 18:12:36.983] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [10Apr2025 18:12:36.983] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
 [10Apr2025 18:12:36.983] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10Apr2025 18:40:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Apr2025 18:40:04.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[10Apr2025 18:40:05.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Apr2025 18:40:05.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[10Apr2025 18:40:08.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] h

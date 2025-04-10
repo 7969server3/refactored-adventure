@@ -3608,3 +3608,54 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Apr2025 17:41:52.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Monster Hunter]
 [10Apr2025 17:54:38.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Knowledge of Death]
 [10Apr2025 17:54:38.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Ambush]
+[10Apr2025 18:10:06.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camote3000 lost connection: Timed out
+[10Apr2025 18:10:06.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 left the game
+[10Apr2025 18:10:06.590] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Apr2025 18:10:08.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[10Apr2025 18:10:08.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[10Apr2025 18:10:17.100] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53e89dc
+[10Apr2025 18:10:17.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:34825] logged in with entity id 21686 at (-178.10622974634612, 65.0, -530.3000000119209)
+[10Apr2025 18:10:17.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[10Apr2025 18:10:17.175] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[10Apr2025 18:10:17.177] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[10Apr2025 18:10:17.187] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@28512613
+[10Apr2025 18:10:17.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camote3000[/127.198.27.118:53959] logged in with entity id 21687 at (-724.6999999880791, 76.0, -118.1530568683885)
+[10Apr2025 18:10:17.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 joined the game
+[10Apr2025 18:10:17.241] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to camote3000
+[10Apr2025 18:10:17.241] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to camote3000
+[10Apr2025 18:10:18.762] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[10Apr2025 18:10:18.762] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10Apr2025 18:10:18.762] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[10Apr2025 18:10:18.762] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10Apr2025 18:10:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Apr2025 18:10:18.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: say<--[HERE]
+[10Apr2025 18:10:19.458] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[10Apr2025 18:10:19.459] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10Apr2025 18:10:19.459] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[10Apr2025 18:10:19.459] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10Apr2025 18:10:25.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] los voy a matal
+[10Apr2025 18:10:36.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camote3000> semen
+[10Apr2025 18:10:42.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camote3000 lost connection: Disconnected
+[10Apr2025 18:10:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 left the game
+[10Apr2025 18:11:12.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[10Apr2025 18:11:12.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[10Apr2025 18:11:14.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat lost connection: Disconnected
+[10Apr2025 18:11:14.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat left the game
+[10Apr2025 18:11:21.638] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@518af30f
+[10Apr2025 18:11:21.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:55641] logged in with entity id 22072 at (-177.59105410630485, 65.0, -530.6515796206163)
+[10Apr2025 18:11:21.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[10Apr2025 18:11:21.655] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[10Apr2025 18:11:21.655] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[10Apr2025 18:11:23.519] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[10Apr2025 18:11:23.520] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10Apr2025 18:11:23.520] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[10Apr2025 18:11:23.520] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10Apr2025 18:12:11.947] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f9e9773
+[10Apr2025 18:12:11.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamkalat[/127.83.137.248:40041] logged in with entity id 22375 at (-178.30000001192093, 65.79673560066871, -527.5208820294091)
+[10Apr2025 18:12:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat joined the game
+[10Apr2025 18:12:12.018] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamkalat
+[10Apr2025 18:12:12.019] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamkalat
+[10Apr2025 18:12:36.983] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[10Apr2025 18:12:36.983] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[10Apr2025 18:12:36.983] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[10Apr2025 18:12:36.983] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

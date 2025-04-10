@@ -3670,3 +3670,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [10Apr2025 18:43:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
 [10Apr2025 18:43:43.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [10Apr2025 18:43:43.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[10Apr2025 19:32:58.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat lost connection: Disconnected
+[10Apr2025 19:32:58.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat left the game

@@ -3563,3 +3563,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 18:52:36.086] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
 [11Apr2025 18:52:36.086] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [11Apr2025 18:52:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camote3000> semen
+[11Apr2025 18:58:33.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arturrssb: No data has been recorded yet.]
+[11Apr2025 18:58:43.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [arturrssb: Currently registered dimensions by type:]

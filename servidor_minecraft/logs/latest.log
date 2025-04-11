@@ -3704,3 +3704,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 22:18:46.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [11Apr2025 22:18:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
 [11Apr2025 22:18:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] h
+[11Apr2025 22:48:16.414] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10b2083
+[11Apr2025 22:48:16.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni25[/127.135.232.64:40161] logged in with entity id 84014 at (-5.5, 67.0, 9.5)
+[11Apr2025 22:48:16.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 joined the game
+[11Apr2025 22:48:16.455] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni25
+[11Apr2025 22:48:16.455] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni25
+[11Apr2025 22:48:16.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has reached the goal [Easter]
+[11Apr2025 22:48:21.650] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[11Apr2025 22:48:21.650] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 22:48:21.666] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[11Apr2025 22:48:21.666] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 22:49:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> f3
+[11Apr2025 22:50:27.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> asd
+[11Apr2025 22:50:29.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> asdsadsadsa
+[11Apr2025 22:51:30.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
+[11Apr2025 22:51:30.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
+[11Apr2025 22:54:38.412] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@785664e5
+[11Apr2025 22:54:38.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni25[/127.135.232.64:39109] logged in with entity id 85242 at (7.011032836164319, 67.0, 14.551102703683826)
+[11Apr2025 22:54:38.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 joined the game
+[11Apr2025 22:54:38.447] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni25
+[11Apr2025 22:54:38.447] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni25
+[11Apr2025 22:54:42.175] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[11Apr2025 22:54:42.175] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 22:54:42.215] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[11Apr2025 22:54:42.215] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 22:56:59.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported infouni25 to tumamakalata
+[11Apr2025 22:58:28.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [A Strange Grave Dust]
+[11Apr2025 23:01:21.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
+[11Apr2025 23:01:21.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game

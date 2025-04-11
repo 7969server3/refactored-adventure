@@ -3611,3 +3611,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 19:44:46.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Sweet Dreams]
 [11Apr2025 19:45:23.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Diamonds!]
 [11Apr2025 19:54:04.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Cover Me in Debris]
+[11Apr2025 19:54:17.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camote3000> gamemode 1
+[11Apr2025 19:55:17.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[11Apr2025 19:56:14.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Apr2025 19:56:14.318] [Server thread/WARN] [tombstone/]: The death event of the player camote3000 was canceled by another mod
+[11Apr2025 19:56:14.318] [Server thread/INFO] [tombstone/]: The player camote3000 has successfully been saved
+[11Apr2025 19:56:19.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has reached the goal [Strong or Careful]
+[11Apr2025 19:56:19.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 drowned
+[11Apr2025 19:56:19.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Your First Grave]
+[11Apr2025 19:56:19.329] [Server thread/INFO] [tombstone/]: The player camote3000 has successfully been saved
+[11Apr2025 19:56:24.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has reached the goal [Here They Come]
+[11Apr2025 19:57:27.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Monster Hunter]
+[11Apr2025 19:59:21.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camote3000 lost connection: Disconnected
+[11Apr2025 19:59:21.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 left the game
+[11Apr2025 19:59:29.570] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6b2eae66
+[11Apr2025 19:59:29.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camote3000[/127.198.27.118:42017] logged in with entity id 46076 at (-134.66231673766353, 48.0, -501.69999998807907)
+[11Apr2025 19:59:29.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 joined the game
+[11Apr2025 19:59:29.634] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to camote3000
+[11Apr2025 19:59:29.634] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to camote3000
+[11Apr2025 19:59:30.913] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[11Apr2025 19:59:30.913] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 19:59:30.914] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[11Apr2025 19:59:30.914] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 20:04:12.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Not Today, Thank You]

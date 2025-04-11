@@ -1140,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-04-11 23:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/wolf_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
@@ -2752,6 +2758,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-03-19 03:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-04-11 23:19:52 +0000"
     },
     "done": true
   },

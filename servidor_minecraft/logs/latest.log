@@ -3663,3 +3663,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 21:09:41.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [11Apr2025 21:09:41.065] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
 [11Apr2025 21:09:41.066] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[11Apr2025 21:36:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola negros
+[11Apr2025 21:37:02.016] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ab76b7f
+[11Apr2025 21:37:02.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OWO[/127.7.242.196:49133] logged in with entity id 71628 at (0.5, 69.0, 10.5)
+[11Apr2025 21:37:02.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO joined the game
+[11Apr2025 21:37:02.067] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to OWO
+[11Apr2025 21:37:02.069] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to OWO
+[11Apr2025 21:37:02.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has reached the goal [Easter]
+[11Apr2025 21:37:05.525] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from OWO : SUCCESS
+[11Apr2025 21:37:05.525] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 21:37:05.568] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from OWO : SUCCESS
+[11Apr2025 21:37:05.568] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 21:38:08.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OWO> tp
+[11Apr2025 21:39:14.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported OWO to arturrssb
+[11Apr2025 21:39:30.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Stone Age]
+[11Apr2025 21:40:25.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Getting an Upgrade]
+[11Apr2025 21:40:55.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Easter Egg Searcher]
+[11Apr2025 21:41:12.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Apr2025 21:41:12.253] [Server thread/WARN] [tombstone/]: The death event of the player OWO was canceled by another mod
+[11Apr2025 21:41:12.254] [Server thread/INFO] [tombstone/]: The player OWO has successfully been saved
+[11Apr2025 21:42:18.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Suit Up]
+[11Apr2025 21:42:38.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Acquire Hardware]
+[11Apr2025 21:44:56.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Isn't It Iron Pick]

@@ -1252,6 +1252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-11 20:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-11 19:45:23 +0000"
@@ -1321,6 +1327,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-10 17:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-11 20:04:12 +0000"
     },
     "done": true
   },
@@ -1601,6 +1613,7 @@
       "minecraft:stony_shore": "2025-04-11 19:03:20 +0000",
       "minecraft:forest": "2025-04-10 17:14:39 +0000",
       "minecraft:ocean": "2025-04-11 19:00:19 +0000",
+      "minecraft:meadow": "2025-04-11 20:04:19 +0000",
       "minecraft:plains": "2025-04-10 17:13:21 +0000"
     },
     "done": false
@@ -1638,6 +1651,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-04-10 17:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-11 20:06:01 +0000"
     },
     "done": true
   },
@@ -1884,6 +1903,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-10 17:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-11 20:06:01 +0000"
     },
     "done": true
   },

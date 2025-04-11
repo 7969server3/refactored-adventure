@@ -3634,3 +3634,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 19:59:30.914] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
 [11Apr2025 19:59:30.914] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [11Apr2025 20:04:12.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Not Today, Thank You]
+[11Apr2025 20:06:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camote3000> GAMEMODE1

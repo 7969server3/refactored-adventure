@@ -3586,3 +3586,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 19:20:18.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Hot Stuff]
 [11Apr2025 19:21:50.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat lost connection: Disconnected
 [11Apr2025 19:21:50.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat left the game
+[11Apr2025 19:29:03.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Ashes 'n Bones]
+[11Apr2025 19:30:03.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [We Need to Go Deeper]
+[11Apr2025 19:31:28.916] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61a37775
+[11Apr2025 19:31:28.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamakalata[/127.83.137.248:57965] logged in with entity id 36400 at (-5.5, 67.0, 2.5)
+[11Apr2025 19:31:28.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata joined the game
+[11Apr2025 19:31:28.969] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamakalata
+[11Apr2025 19:31:28.970] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamakalata
+[11Apr2025 19:31:28.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has reached the goal [Easter]
+[11Apr2025 19:31:32.645] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[11Apr2025 19:31:32.645] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 19:31:32.645] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamakalata : SUCCESS
+[11Apr2025 19:31:32.645] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 19:33:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Sweet Dreams]

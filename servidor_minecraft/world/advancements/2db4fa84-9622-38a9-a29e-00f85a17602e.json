@@ -2513,6 +2513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-11 18:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pumpkin_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-02-22 03:33:06 +0000"
@@ -4424,6 +4430,12 @@
   "minecraft:recipes/travelersbackpack/enderman_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-21 23:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-11 18:17:05 +0000"
     },
     "done": true
   },

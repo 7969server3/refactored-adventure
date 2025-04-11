@@ -3551,3 +3551,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 17:40:57.688] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [11Apr2025 17:40:57.688] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
 [11Apr2025 17:40:57.688] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 18:15:25.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has made the advancement [What a Deal!]

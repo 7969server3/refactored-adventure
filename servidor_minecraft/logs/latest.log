@@ -3640,3 +3640,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 20:19:31.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [What a Deal!]
 [11Apr2025 20:21:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camote3000> a[name:"casa 2", x:-151, y:76, z:-512, dim:minecraft:overworld]
 [11Apr2025 20:32:29.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Take Aim]
+[11Apr2025 20:37:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [What a Deal!]
+[11Apr2025 20:41:25.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Cover Me with Diamonds]
+[11Apr2025 20:47:12.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3467ms or 69 ticks behind
+[11Apr2025 20:48:18.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=61, z=-52} BlockPos{x=84, y=59, z=-52}
+[11Apr2025 20:48:18.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=61, z=-52} BlockPos{x=84, y=59, z=-52}
+[11Apr2025 20:48:18.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=60, z=-52} BlockPos{x=84, y=59, z=-52}
+[11Apr2025 21:01:47.850] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/35932, l='ServerLevel[world]', x=-176.30, y=65.00, z=-527.30] died, message: 'Librarian was slain by arturrssb'
+[11Apr2025 21:04:15.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Easter Egg Searcher]

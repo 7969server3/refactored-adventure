@@ -6836,3 +6836,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 20:32:28.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Apr2025 20:32:28.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Apr2025 20:32:29.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Take Aim]
+[11Apr2025 20:37:28.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:37:28.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:37:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [What a Deal!]
+[11Apr2025 20:41:25.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Cover Me with Diamonds]
+[11Apr2025 20:42:28.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:42:28.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:47:12.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3467ms or 69 ticks behind
+[11Apr2025 20:47:31.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:47:31.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:48:18.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=83, y=61, z=-52} BlockPos{x=84, y=59, z=-52}
+[11Apr2025 20:48:18.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=61, z=-52} BlockPos{x=84, y=59, z=-52}
+[11Apr2025 20:48:18.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=85, y=60, z=-52} BlockPos{x=84, y=59, z=-52}
+[11Apr2025 20:52:31.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:52:31.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:52:56.442] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-178, y=65, z=-516}) doesn't have enough leaves around top most log
+[11Apr2025 20:57:31.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:57:31.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 21:01:47.850] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/35932, l='ServerLevel[world]', x=-176.30, y=65.00, z=-527.30] died, message: 'Librarian was slain by arturrssb'
+[11Apr2025 21:02:31.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 21:02:31.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 21:04:15.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Easter Egg Searcher]

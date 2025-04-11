@@ -6831,3 +6831,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 20:21:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camote3000> a[name:"casa 2", x:-151, y:76, z:-512, dim:minecraft:overworld]
 [11Apr2025 20:22:28.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Apr2025 20:22:28.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:27:28.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:27:28.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:32:28.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 20:32:28.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 20:32:29.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Take Aim]

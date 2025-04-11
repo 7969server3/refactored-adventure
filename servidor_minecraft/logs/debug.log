@@ -6857,3 +6857,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 21:02:31.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Apr2025 21:02:31.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Apr2025 21:04:15.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Easter Egg Searcher]
+[11Apr2025 21:06:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Apr2025 21:06:15.765] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[11Apr2025 21:06:15.768] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[11Apr2025 21:06:40.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Apr2025 21:06:40.665] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[11Apr2025 21:06:40.665] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[11Apr2025 21:06:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Apr2025 21:06:49.068] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[11Apr2025 21:06:49.068] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[11Apr2025 21:07:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Apr2025 21:07:05.917] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[11Apr2025 21:07:05.918] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[11Apr2025 21:07:31.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 21:07:31.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Apr2025 21:08:37.118] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-180, y=66, z=-529}) doesn't have enough leaves around top most log
+[11Apr2025 21:08:38.618] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-179, y=66, z=-529}) doesn't have enough leaves around top most log
+[11Apr2025 21:09:41.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Apr2025 21:09:41.065] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[11Apr2025 21:09:41.066] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[11Apr2025 21:10:20.466] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-178, y=66, z=-529}) doesn't have enough leaves around top most log
+[11Apr2025 21:10:23.750] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-178, y=66, z=-528}) doesn't have enough leaves around top most log
+[11Apr2025 21:10:26.902] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-178, y=67, z=-528}) doesn't have enough leaves around top most log
+[11Apr2025 21:10:28.150] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-178, y=65, z=-528}) doesn't have enough leaves around top most log
+[11Apr2025 21:10:31.516] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-178, y=66, z=-526}) doesn't have enough leaves around top most log
+[11Apr2025 21:12:31.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Apr2025 21:12:31.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -301,6 +301,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-11 21:10:45 +0000",
       "apple": "2025-04-11 19:36:48 +0000",
       "potato": "2025-04-11 20:17:18 +0000",
       "bread": "2025-04-11 19:37:01 +0000",
@@ -892,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-04-11 21:07:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-04-11 19:42:20 +0000"
@@ -955,6 +962,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-04-11 19:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-04-11 21:07:47 +0000"
     },
     "done": true
   },

@@ -3732,3 +3732,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 22:58:28.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [A Strange Grave Dust]
 [11Apr2025 23:01:21.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
 [11Apr2025 23:01:21.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
+[11Apr2025 23:27:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Apr2025 23:27:26.661] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[11Apr2025 23:27:26.665] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved

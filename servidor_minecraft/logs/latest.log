@@ -3552,3 +3552,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 17:40:57.688] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
 [11Apr2025 17:40:57.688] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [11Apr2025 18:15:25.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has made the advancement [What a Deal!]
+[11Apr2025 18:46:19.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat has made the advancement [Cover Me with Diamonds]
+[11Apr2025 18:52:32.726] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@56a60022
+[11Apr2025 18:52:32.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camote3000[/127.198.27.118:42369] logged in with entity id 24208 at (-732.4403261980684, 81.0, -118.61209252838839)
+[11Apr2025 18:52:32.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 joined the game
+[11Apr2025 18:52:32.747] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to camote3000
+[11Apr2025 18:52:32.748] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to camote3000
+[11Apr2025 18:52:36.085] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[11Apr2025 18:52:36.086] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 18:52:36.086] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from camote3000 : SUCCESS
+[11Apr2025 18:52:36.086] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 18:52:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camote3000> semen

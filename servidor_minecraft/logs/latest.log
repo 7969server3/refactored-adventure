@@ -3697,3 +3697,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 21:52:09.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported OWO to arturrssb
 [11Apr2025 21:53:34.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OWO lost connection: Disconnected
 [11Apr2025 21:53:34.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO left the game
+[11Apr2025 22:18:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 22:18:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[11Apr2025 22:18:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 22:18:46.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[11Apr2025 22:18:46.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 22:18:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[11Apr2025 22:18:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] h

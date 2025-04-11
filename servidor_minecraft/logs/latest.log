@@ -3569,3 +3569,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 19:08:41.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [11Apr2025 19:11:24.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat lost connection: Disconnected
 [11Apr2025 19:11:24.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat left the game
+[11Apr2025 19:15:03.623] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@606431b0
+[11Apr2025 19:15:03.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tumamkalat[/127.83.137.248:48863] logged in with entity id 30432 at (-192.47606333233028, 72.0, -504.89306726874986)
+[11Apr2025 19:15:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat joined the game
+[11Apr2025 19:15:03.676] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to tumamkalat
+[11Apr2025 19:15:03.676] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to tumamkalat
+[11Apr2025 19:15:06.917] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[11Apr2025 19:15:06.918] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 19:15:06.918] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from tumamkalat : SUCCESS
+[11Apr2025 19:15:06.918] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[11Apr2025 19:15:11.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> asd
+[11Apr2025 19:15:14.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [A Strange Grave Dust]
+[11Apr2025 19:16:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[11Apr2025 19:16:54.523] [Server thread/WARN] [tombstone/]: The death event of the player tumamkalat was canceled by another mod
+[11Apr2025 19:16:54.534] [Server thread/INFO] [tombstone/]: The player tumamkalat has successfully been saved
+[11Apr2025 19:20:18.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Hot Stuff]
+[11Apr2025 19:21:50.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tumamkalat lost connection: Disconnected
+[11Apr2025 19:21:50.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamkalat left the game

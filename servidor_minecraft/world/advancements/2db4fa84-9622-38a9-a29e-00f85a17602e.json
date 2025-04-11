@@ -996,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-11 19:16:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-02-21 22:08:20 +0000"
@@ -2747,6 +2753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-11 19:16:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/netherite_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-21 23:33:35 +0000"
@@ -3035,6 +3047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-11 19:16:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-02-21 22:16:40 +0000"
@@ -3194,6 +3212,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-21 22:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-11 19:16:05 +0000"
     },
     "done": true
   },
@@ -3905,6 +3929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-11 19:16:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-02-23 22:37:14 +0000"
@@ -3998,6 +4028,12 @@
   "minecraft:recipes/travelersbackpack/wither_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-02-23 23:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-11 19:16:05 +0000"
     },
     "done": true
   },
@@ -4334,6 +4370,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-21 22:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-11 19:16:05 +0000"
     },
     "done": true
   },

@@ -3635,3 +3635,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [11Apr2025 19:59:30.914] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [11Apr2025 20:04:12.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camote3000 has made the advancement [Not Today, Thank You]
 [11Apr2025 20:06:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camote3000> GAMEMODE1
+[11Apr2025 20:16:56.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[11Apr2025 20:19:01.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[11Apr2025 20:19:31.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [What a Deal!]
+[11Apr2025 20:21:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camote3000> a[name:"casa 2", x:-151, y:76, z:-512, dim:minecraft:overworld]

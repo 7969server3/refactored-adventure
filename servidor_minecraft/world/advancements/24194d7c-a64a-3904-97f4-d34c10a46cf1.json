@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-11 20:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-04-11 19:42:20 +0000"
@@ -290,6 +296,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-04-11 19:36:48 +0000",
+      "potato": "2025-04-11 20:17:18 +0000",
       "bread": "2025-04-11 19:37:01 +0000",
       "carrot": "2025-04-11 19:45:01 +0000"
     },
@@ -418,6 +425,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-11 19:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-11 20:19:10 +0000"
     },
     "done": true
   },
@@ -715,6 +728,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-11 20:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-11 19:41:29 +0000"
@@ -1009,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-11 20:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-11 19:37:28 +0000"
@@ -1280,6 +1305,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-11 19:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-11 20:18:54 +0000"
     },
     "done": true
   },

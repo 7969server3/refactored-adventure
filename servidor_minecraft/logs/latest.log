@@ -766,3 +766,24 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [12Apr2025 03:07:12.918] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [12Apr2025 03:07:12.965] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni123 : SUCCESS
 [12Apr2025 03:07:12.965] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 03:12:33.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni123 lost connection: Disconnected
+[12Apr2025 03:12:33.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni123 left the game
+[12Apr2025 03:12:57.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Disconnected
+[12Apr2025 03:12:57.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[12Apr2025 03:13:04.973] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c6a8646
+[12Apr2025 03:13:04.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.5.90.10:40393] logged in with entity id 163559 at (-192.69999998807907, 68.0, -515.3000000119209)
+[12Apr2025 03:13:04.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[12Apr2025 03:13:05.037] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[12Apr2025 03:13:05.037] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[12Apr2025 03:13:06.837] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[12Apr2025 03:13:06.837] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 03:13:06.837] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[12Apr2025 03:13:06.837] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 03:19:40.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[12Apr2025 03:21:13.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[12Apr2025 03:21:13.811] [Server thread/WARN] [tombstone/]: The death event of the player arturrssb was canceled by another mod
+[12Apr2025 03:21:13.817] [Server thread/INFO] [tombstone/]: The player arturrssb has successfully been saved
+[12Apr2025 03:21:29.464] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for arturrssb with unique ID 277d23b0-f9b5-4771-be14-9f711cbb347a
+[12Apr2025 03:21:29.464] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -187 Y: 65 Z: -524
+[12Apr2025 03:21:29.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Almost Unkillable]
+[12Apr2025 03:21:29.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was slain by Iron Golem

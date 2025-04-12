@@ -4161,6 +4161,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-04-12 03:21:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/horse_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-02-21 23:32:44 +0000"

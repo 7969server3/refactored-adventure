@@ -5,3 +5,22 @@
 [12Apr2025 00:53:01.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [12Apr2025 00:53:08.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Ashes 'n Bones]
 [12Apr2025 01:19:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Not Today, Thank You]
+[12Apr2025 01:32:30.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> s
+[12Apr2025 01:36:49.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[12Apr2025 01:36:49.860] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[12Apr2025 01:36:49.863] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[12Apr2025 01:38:04.818] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID 7d5954e6-2701-45ee-ae79-999f0f8237f3
+[12Apr2025 01:38:04.820] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 48 Y: -42 Z: -439
+[12Apr2025 01:38:04.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has reached the goal [Strong or Careful]
+[12Apr2025 01:38:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was obliterated by a sonically-charged shriek
+[12Apr2025 01:38:04.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Your First Grave]
+[12Apr2025 01:38:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has reached the goal [Here They Come]
+[12Apr2025 01:38:33.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported tumamakalata to arturrssb
+[12Apr2025 01:39:46.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Sneak 100]
+[12Apr2025 01:43:58.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[12Apr2025 01:43:58.359] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[12Apr2025 01:43:58.362] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[12Apr2025 01:44:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Sneak 100]
+[12Apr2025 01:44:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[12Apr2025 01:44:23.359] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[12Apr2025 01:44:23.362] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved

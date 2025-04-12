@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-12 01:39:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/nether_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-21 23:33:35 +0000"
@@ -1909,6 +1915,7 @@
       "minecraft:snowy_beach": "2025-02-28 02:00:41 +0000",
       "minecraft:flower_forest": "2025-02-28 01:43:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 01:00:47 +0000",
+      "minecraft:deep_dark": "2025-04-12 01:45:07 +0000",
       "minecraft:meadow": "2025-02-28 02:23:55 +0000",
       "minecraft:savanna": "2025-02-28 01:29:40 +0000",
       "minecraft:plains": "2025-02-21 22:00:45 +0000"

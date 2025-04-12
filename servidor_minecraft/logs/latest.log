@@ -656,3 +656,43 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [12Apr2025 02:28:02.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> ven
 [12Apr2025 02:28:09.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> comida
 [12Apr2025 02:28:18.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> ussalo sabiamente
+[12Apr2025 02:29:38.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
+[12Apr2025 02:29:38.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
+[12Apr2025 02:30:51.703] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6aee368e
+[12Apr2025 02:30:51.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni25[/127.135.232.64:48859] logged in with entity id 145107 at (-250.51165834505227, 69.0, -499.2786656010373)
+[12Apr2025 02:30:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 joined the game
+[12Apr2025 02:30:51.766] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni25
+[12Apr2025 02:30:51.767] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni25
+[12Apr2025 02:30:55.688] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[12Apr2025 02:30:55.689] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 02:30:55.696] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni25 : SUCCESS
+[12Apr2025 02:30:55.696] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 02:31:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> se te cierra?
+[12Apr2025 02:31:12.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <arturrssb> habla bien
+[12Apr2025 02:31:36.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> me voto on
+[12Apr2025 02:31:38.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> tmr
+[12Apr2025 02:31:52.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Stone Age]
+[12Apr2025 02:31:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> pero desactiva el cuadro de advertencia
+[12Apr2025 02:32:00.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Acquire Hardware]
+[12Apr2025 02:32:38.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Isn't It Iron Pick]
+[12Apr2025 02:38:04.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Monster Hunter]
+[12Apr2025 02:38:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[12Apr2025 02:38:06.521] [Server thread/WARN] [tombstone/]: The death event of the player infouni25 was canceled by another mod
+[12Apr2025 02:38:06.528] [Server thread/INFO] [tombstone/]: The player infouni25 has successfully been saved
+[12Apr2025 02:38:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAnte has made the advancement [Knowledge of Death]
+[12Apr2025 02:38:17.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAnte has made the advancement [Ambush]
+[12Apr2025 02:38:42.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 was slain by Zombie
+[12Apr2025 02:38:42.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Your First Grave]
+[12Apr2025 02:38:57.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> tp!!!!!!!!!!!!!!!!!!!
+[12Apr2025 02:39:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here
+[12Apr2025 02:39:15.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported infouni25 to tumamakalata
+[12Apr2025 02:39:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has reached the goal [Here They Come]
+[12Apr2025 02:40:03.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> llevame a tu casa uu
+[12Apr2025 02:40:05.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAnte has made the advancement [We Need to Go Deeper]
+[12Apr2025 02:40:16.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> cen
+[12Apr2025 02:40:41.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> no veooo
+[12Apr2025 02:41:43.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Chest Slayer]
+[12Apr2025 02:43:37.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni25> llevanme arriba
+[12Apr2025 02:45:32.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Amateur Archaeologist]
+[12Apr2025 02:47:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported infouni25 to arturrssb
+[12Apr2025 02:47:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAnte has made the advancement [Diamonds!]

@@ -584,6 +584,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-12 02:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-04-11 19:37:37 +0000"
@@ -1020,6 +1026,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-11 19:57:27 +0000",
       "minecraft:spider": "2025-04-12 01:23:22 +0000",
+      "minecraft:creeper": "2025-04-12 02:45:22 +0000",
+      "minecraft:enderman": "2025-04-12 02:30:38 +0000",
       "minecraft:zombie": "2025-04-11 21:23:44 +0000"
     },
     "done": false
@@ -1327,6 +1335,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-12 01:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-04-12 02:30:26 +0000"
     },
     "done": true
   },
@@ -2014,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-12 02:36:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-11 19:44:57 +0000"
@@ -2068,6 +2088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-12 02:42:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-12 01:34:35 +0000"
@@ -2077,6 +2103,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-12 01:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-04-12 02:30:26 +0000"
     },
     "done": true
   },

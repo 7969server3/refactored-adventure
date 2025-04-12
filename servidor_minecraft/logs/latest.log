@@ -24,3 +24,15 @@
 [12Apr2025 01:44:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
 [12Apr2025 01:44:23.359] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
 [12Apr2025 01:44:23.362] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[12Apr2025 01:53:53.715] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@573a5ad8
+[12Apr2025 01:53:53.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAnte[/127.178.183.177:49687] logged in with entity id 120687 at (10.5, 67.0, -0.5)
+[12Apr2025 01:53:53.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAnte joined the game
+[12Apr2025 01:53:53.750] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to DAnte
+[12Apr2025 01:53:53.750] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to DAnte
+[12Apr2025 01:53:53.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAnte has reached the goal [Easter]
+[12Apr2025 01:53:56.724] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from DAnte : SUCCESS
+[12Apr2025 01:53:56.724] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 01:53:56.724] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from DAnte : SUCCESS
+[12Apr2025 01:53:56.724] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 01:56:42.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=70, z=-470} BlockPos{x=39, y=70, z=-471}
+[12Apr2025 01:57:36.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAnte has made the advancement [Stone Age]

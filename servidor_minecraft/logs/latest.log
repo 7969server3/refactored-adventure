@@ -787,3 +787,11 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [12Apr2025 03:21:29.464] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -187 Y: 65 Z: -524
 [12Apr2025 03:21:29.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has completed the challenge [Almost Unkillable]
 [12Apr2025 03:21:29.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb was slain by Iron Golem
+[12Apr2025 03:51:05.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[12Apr2025 03:51:05.614] [Server thread/WARN] [tombstone/]: The death event of the player tumamakalata was canceled by another mod
+[12Apr2025 03:51:05.616] [Server thread/INFO] [tombstone/]: The player tumamakalata has successfully been saved
+[12Apr2025 03:51:29.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAnte lost connection: Disconnected
+[12Apr2025 03:51:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAnte left the game
+[12Apr2025 03:52:20.563] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for tumamakalata with unique ID 6db1a107-4b81-4c55-9663-d7b60290f9c6
+[12Apr2025 03:52:20.563] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -192 Y: 72 Z: -513
+[12Apr2025 03:52:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata was shot by Skeleton

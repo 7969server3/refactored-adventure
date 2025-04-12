@@ -409,6 +409,7 @@
       "apple": "2025-04-11 19:36:48 +0000",
       "potato": "2025-04-11 20:17:18 +0000",
       "bread": "2025-04-11 19:37:01 +0000",
+      "golden_apple": "2025-04-12 02:49:13 +0000",
       "cookie": "2025-04-11 20:34:47 +0000",
       "suspicious_stew": "2025-04-11 20:35:32 +0000",
       "golden_carrot": "2025-04-12 01:40:29 +0000",
@@ -1182,6 +1183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-04-12 02:54:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-12 00:26:46 +0000"
@@ -1674,6 +1681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-12 02:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-11 19:37:37 +0000"
@@ -1902,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-12 02:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-11 20:10:41 +0000"
@@ -2055,6 +2074,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-11 23:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-04-12 02:54:35 +0000"
     },
     "done": true
   },

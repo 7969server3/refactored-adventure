@@ -696,3 +696,34 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [12Apr2025 02:45:32.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 has made the advancement [Amateur Archaeologist]
 [12Apr2025 02:47:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported infouni25 to arturrssb
 [12Apr2025 02:47:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAnte has made the advancement [Diamonds!]
+[12Apr2025 02:53:59.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni25 lost connection: Disconnected
+[12Apr2025 02:53:59.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni25 left the game
+[12Apr2025 02:56:25.166] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ee05f09
+[12Apr2025 02:56:25.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni123[/127.135.232.64:37713] logged in with entity id 158656 at (0.5, 69.0, -1.5)
+[12Apr2025 02:56:25.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni123 joined the game
+[12Apr2025 02:56:25.209] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni123
+[12Apr2025 02:56:25.209] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni123
+[12Apr2025 02:56:25.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni123 has reached the goal [Easter]
+[12Apr2025 02:56:28.852] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni123 : SUCCESS
+[12Apr2025 02:56:28.852] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 02:56:28.852] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni123 : SUCCESS
+[12Apr2025 02:56:28.853] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 02:56:37.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni123> tp!!!!!
+[12Apr2025 02:56:55.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> buscaste la soluicion a tu problema por yt?
+[12Apr2025 02:57:25.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: infouni123 lost connection: Timed out
+[12Apr2025 02:57:25.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni123 left the game
+[12Apr2025 02:57:25.367] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Apr2025 02:57:52.874] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@305b685f[id=<null>,name=infouni123,properties={},legacy=false] (/127.135.232.64:35147) lost connection: Disconnected
+[12Apr2025 02:58:21.017] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7215327f
+[12Apr2025 02:58:21.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: infouni123[/127.135.232.64:41755] logged in with entity id 159323 at (4.660525763379394, 68.0, 0.88802112241605)
+[12Apr2025 02:58:21.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: infouni123 joined the game
+[12Apr2025 02:58:21.056] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to infouni123
+[12Apr2025 02:58:21.057] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to infouni123
+[12Apr2025 02:58:23.845] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni123 : SUCCESS
+[12Apr2025 02:58:23.845] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 02:58:23.870] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from infouni123 : SUCCESS
+[12Apr2025 02:58:23.871] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[12Apr2025 02:58:28.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni123> tp!!!!!!
+[12Apr2025 02:58:57.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <infouni123> tpp
+[12Apr2025 02:59:14.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[12Apr2025 02:59:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found

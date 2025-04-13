@@ -139,3 +139,5 @@
 [13Apr2025 02:38:50.669] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [13Apr2025 02:41:11.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dante lost connection: Disconnected
 [13Apr2025 02:41:11.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante left the game
+[13Apr2025 02:41:28.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Spooky Scary Skeleton]
+[13Apr2025 02:46:43.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Ashes 'n Bones]

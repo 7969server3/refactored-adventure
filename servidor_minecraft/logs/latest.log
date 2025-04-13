@@ -29,3 +29,12 @@
 [13Apr2025 01:49:05.211] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
 [13Apr2025 01:49:05.212] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from OWO : SUCCESS
 [13Apr2025 01:49:05.212] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 01:53:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OWO> vein miner
+[13Apr2025 01:54:30.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [A Terrible Fortress]
+[13Apr2025 01:54:39.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Not Today, Thank You]
+[13Apr2025 01:55:17.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Diamonds!]
+[13Apr2025 01:55:18.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Ice Bucket Challenge]
+[13Apr2025 01:55:34.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [A Seedy Place]
+[13Apr2025 01:55:51.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Into Fire]
+[13Apr2025 01:57:10.378] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [citadel:main_channel,curios:main,cataclysm:main_channel,lionfishapi:main_channel,tombstone:tombstone_channel,playerrevive:main,creativecore:main,artifacts:main,geckolib3:main] rejected vanilla connections
+[13Apr2025 01:57:10.379] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.

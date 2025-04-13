@@ -165,3 +165,24 @@
 [13Apr2025 05:12:10.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [13Apr2025 05:12:59.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Timed out
 [13Apr2025 05:12:59.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[13Apr2025 05:14:45.172] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@cbfddab
+[13Apr2025 05:14:45.177] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.221.192.220:58131] logged in with entity id 87583 at (46.081496533764785, 55.0, -71.30000001192093)
+[13Apr2025 05:14:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[13Apr2025 05:14:45.185] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[13Apr2025 05:14:45.185] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[13Apr2025 05:14:47.876] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 05:14:47.877] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 05:14:47.877] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 05:14:47.877] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 05:16:30.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Timed out
+[13Apr2025 05:16:30.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
+[13Apr2025 05:21:07.872] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5eab5ef3
+[13Apr2025 05:21:07.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: arturrssb[/127.75.194.253:33327] logged in with entity id 88719 at (-42.98167374622006, 58.0, 40.99163692151061)
+[13Apr2025 05:21:07.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb joined the game
+[13Apr2025 05:21:07.887] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to arturrssb
+[13Apr2025 05:21:07.887] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to arturrssb
+[13Apr2025 05:21:09.666] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 05:21:09.666] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 05:21:09.666] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from arturrssb : SUCCESS
+[13Apr2025 05:21:09.666] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 05:21:55.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!

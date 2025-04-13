@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-13 02:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-13 02:42:11 +0000"
@@ -291,7 +297,9 @@
     "criteria": {
       "cooked_mutton": "2025-04-13 02:15:55 +0000",
       "baked_potato": "2025-04-13 02:15:34 +0000",
-      "glow_berries": "2025-04-13 02:47:32 +0000"
+      "rotten_flesh": "2025-04-13 02:55:33 +0000",
+      "glow_berries": "2025-04-13 02:47:32 +0000",
+      "salmon": "2025-04-13 02:52:00 +0000"
     },
     "done": false
   },
@@ -779,6 +787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-13 02:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-13 02:13:54 +0000"
@@ -995,6 +1009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-13 02:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-04-13 02:17:53 +0000"
@@ -1106,6 +1126,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 02:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-13 02:56:13 +0000"
     },
     "done": true
   },
@@ -1268,6 +1294,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-04-13 02:35:55 +0000",
+      "minecraft:stony_shore": "2025-04-13 02:54:39 +0000",
+      "minecraft:ocean": "2025-04-13 02:56:41 +0000",
       "minecraft:plains": "2025-04-13 02:05:45 +0000"
     },
     "done": false

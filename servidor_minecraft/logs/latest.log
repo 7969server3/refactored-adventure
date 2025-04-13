@@ -122,3 +122,20 @@
 [13Apr2025 02:30:21.521] [Server thread/WARN] [tombstone/]: The death event of the player CoreFix was canceled by another mod
 [13Apr2025 02:30:21.521] [Server thread/INFO] [tombstone/]: The player CoreFix has successfully been saved
 [13Apr2025 02:30:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix fell from a high place
+[13Apr2025 02:31:26.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante has made the advancement [Sweet Dreams]
+[13Apr2025 02:34:31.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante has made the advancement [Monster Hunter]
+[13Apr2025 02:36:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Magic Writing]
+[13Apr2025 02:37:47.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CoreFix lost connection: Timed out
+[13Apr2025 02:37:47.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix left the game
+[13Apr2025 02:37:47.924] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Apr2025 02:38:43.523] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4bf3582c
+[13Apr2025 02:38:43.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CoreFix[/127.150.68.30:53111] logged in with entity id 35834 at (-219.92677334334573, -36.0, -641.952148047591)
+[13Apr2025 02:38:43.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix joined the game
+[13Apr2025 02:38:43.572] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to CoreFix
+[13Apr2025 02:38:43.572] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to CoreFix
+[13Apr2025 02:38:50.668] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from CoreFix : SUCCESS
+[13Apr2025 02:38:50.668] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 02:38:50.668] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from CoreFix : SUCCESS
+[13Apr2025 02:38:50.669] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 02:41:11.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dante lost connection: Disconnected
+[13Apr2025 02:41:11.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante left the game

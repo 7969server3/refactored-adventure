@@ -152,3 +152,9 @@
 [13Apr2025 04:02:06.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-196, y=18, z=-513} BlockPos{x=-195, y=18, z=-513}
 [13Apr2025 04:07:28.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-184, y=16, z=-510} BlockPos{x=-186, y=15, z=-511}
 [13Apr2025 04:07:28.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-183, y=16, z=-510} BlockPos{x=-186, y=15, z=-511}
+[13Apr2025 04:22:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [The End?]
+[13Apr2025 04:22:59.556] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[13Apr2025 04:22:59.556] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[13Apr2025 04:23:00.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[13Apr2025 04:24:53.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has reached the goal [You Need a Mint]
+[13Apr2025 04:25:37.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!

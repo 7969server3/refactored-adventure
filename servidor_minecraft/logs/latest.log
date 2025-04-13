@@ -74,3 +74,33 @@
 [13Apr2025 02:08:44.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Acquire Hardware]
 [13Apr2025 02:08:54.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Diamonds!]
 [13Apr2025 02:10:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Suit Up]
+[13Apr2025 02:11:01.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [Ice Bucket Challenge]
+[13Apr2025 02:11:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Easter Egg Searcher]
+[13Apr2025 02:16:16.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OWO lost connection: Disconnected
+[13Apr2025 02:16:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO left the game
+[13Apr2025 02:16:22.116] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@680966ae
+[13Apr2025 02:16:22.123] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OWO[/127.156.200.129:33337] logged in with entity id 26939 at (-189.2523774279262, 66.0, -524.1710334425704)
+[13Apr2025 02:16:22.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO joined the game
+[13Apr2025 02:16:22.170] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to OWO
+[13Apr2025 02:16:22.170] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to OWO
+[13Apr2025 02:16:23.442] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from OWO : SUCCESS
+[13Apr2025 02:16:23.443] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 02:16:23.463] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from OWO : SUCCESS
+[13Apr2025 02:16:23.464] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 02:17:42.772] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9297500
+[13Apr2025 02:17:42.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dante[/127.178.183.177:37227] logged in with entity id 27410 at (10.5, 67.0, -9.5)
+[13Apr2025 02:17:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante joined the game
+[13Apr2025 02:17:42.815] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Dante
+[13Apr2025 02:17:42.815] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Dante
+[13Apr2025 02:17:42.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante has reached the goal [Easter]
+[13Apr2025 02:17:46.346] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Dante : SUCCESS
+[13Apr2025 02:17:46.346] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 02:17:46.346] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Dante : SUCCESS
+[13Apr2025 02:17:46.346] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 02:18:25.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Dante to OWO
+[13Apr2025 02:18:41.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Monster Hunter]
+[13Apr2025 02:19:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO has made the advancement [Sweet Dreams]
+[13Apr2025 02:19:27.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tumamakalata> A
+[13Apr2025 02:19:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Hot Stuff]
+[13Apr2025 02:20:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante has made the advancement [Suit Up]
+[13Apr2025 02:20:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Not Today, Thank You]

@@ -145,3 +145,7 @@
 [13Apr2025 03:03:16.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CoreFix lost connection: Disconnected
 [13Apr2025 03:03:16.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix left the game
 [13Apr2025 03:07:14.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tumamakalata has made the advancement [We Need to Go Deeper]
+[13Apr2025 03:28:21.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54463, l='ServerLevel[world]', x=-1798.63, y=65.00, z=112.72] died, message: 'Villager suffocated in a wall'
+[13Apr2025 03:34:37.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Eye Spy]
+[13Apr2025 03:41:51.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[13Apr2025 03:42:46.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Your First Receptacle]

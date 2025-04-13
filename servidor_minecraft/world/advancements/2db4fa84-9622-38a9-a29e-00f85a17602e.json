@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-13 03:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/villager_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-21 23:33:36 +0000"
@@ -959,6 +965,7 @@
       "minecraft:cave_spider": "2025-02-22 03:14:06 +0000",
       "minecraft:piglin": "2025-02-22 05:05:53 +0000",
       "minecraft:enderman": "2025-02-22 00:58:29 +0000",
+      "minecraft:silverfish": "2025-04-13 03:38:20 +0000",
       "minecraft:vex": "2025-02-22 00:10:33 +0000",
       "minecraft:zombie": "2025-02-21 22:43:50 +0000",
       "minecraft:drowned": "2025-02-22 01:17:54 +0000",
@@ -1209,6 +1216,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-02-23 23:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-13 03:34:37 +0000"
     },
     "done": true
   },
@@ -1914,6 +1927,7 @@
       "minecraft:snowy_taiga": "2025-02-28 02:00:51 +0000",
       "minecraft:dripstone_caves": "2025-03-11 18:14:32 +0000",
       "minecraft:grove": "2025-02-28 02:07:09 +0000",
+      "minecraft:swamp": "2025-04-13 03:29:54 +0000",
       "minecraft:jagged_peaks": "2025-02-28 02:05:35 +0000",
       "minecraft:cold_ocean": "2025-02-21 22:16:42 +0000",
       "minecraft:forest": "2025-02-21 23:54:54 +0000",
@@ -1968,6 +1982,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-02-21 22:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-13 03:34:37 +0000"
     },
     "done": true
   },
@@ -2799,6 +2819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-13 03:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/pig_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-02-21 23:33:36 +0000"
@@ -3075,6 +3101,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2025-04-13 03:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-02-21 22:08:00 +0000"
@@ -3096,6 +3128,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-21 22:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-13 03:34:37 +0000"
     },
     "done": true
   },
@@ -3639,6 +3677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-13 03:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-21 22:48:41 +0000"
@@ -4170,6 +4214,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-11 18:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-13 03:34:37 +0000"
     },
     "done": true
   },

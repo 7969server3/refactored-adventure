@@ -3363,6 +3363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-13 03:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-14 18:32:18 +0000"
@@ -3420,6 +3426,12 @@
   "tombstone:adventure/exorcism": {
     "criteria": {
       "coded_trigger": "2025-02-22 02:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-13 03:13:18 +0000"
     },
     "done": true
   },

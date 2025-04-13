@@ -6823,3 +6823,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanis
 [13Apr2025 02:19:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Hot Stuff]
 [13Apr2025 02:20:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante has made the advancement [Suit Up]
 [13Apr2025 02:20:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Not Today, Thank You]
+[13Apr2025 02:21:05.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Knowledge of Death]
+[13Apr2025 02:21:05.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [A Strange Grave Dust]
+[13Apr2025 02:22:04.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante has made the advancement [What a Deal!]
+[13Apr2025 02:22:45.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OWO lost connection: Disconnected
+[13Apr2025 02:22:45.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO left the game
+[13Apr2025 02:23:00.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Chest Slayer]
+[13Apr2025 02:23:03.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Amateur Archaeologist]
+[13Apr2025 02:23:39.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante has made the advancement [Cover Me with Diamonds]
+[13Apr2025 02:24:24.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 02:24:24.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 02:25:43.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 02:25:43.624] [Server thread/WARN] [tombstone/]: The death event of the player CoreFix was canceled by another mod
+[13Apr2025 02:25:43.624] [Server thread/INFO] [tombstone/]: The player CoreFix has successfully been saved
+[13Apr2025 02:26:58.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix fell from a high place
+[13Apr2025 02:26:58.630] [Server thread/DEBUG] [tombstone/]: A new grave of the player CoreFix was created at position [x:-226, y:-32, z:-605, dim:minecraft:overworld]
+[13Apr2025 02:26:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has made the advancement [Your First Grave]
+[13Apr2025 02:27:06.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix has reached the goal [Here They Come]
+[13Apr2025 02:29:24.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 02:29:24.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 02:30:21.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: playerrevive.chat.bleeding
+[13Apr2025 02:30:21.521] [Server thread/WARN] [tombstone/]: The death event of the player CoreFix was canceled by another mod
+[13Apr2025 02:30:21.521] [Server thread/INFO] [tombstone/]: The player CoreFix has successfully been saved
+[13Apr2025 02:30:37.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CoreFix fell from a high place

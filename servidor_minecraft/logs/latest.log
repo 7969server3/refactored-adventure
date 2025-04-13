@@ -12,3 +12,20 @@
 [13Apr2025 00:11:19.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-112, y=-29, z=-595} BlockPos{x=-112, y=-30, z=-597}
 [13Apr2025 00:11:20.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=-29, z=-593} BlockPos{x=-112, y=-28, z=-594}
 [13Apr2025 01:36:38.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=38, z=-26} BlockPos{x=-21, y=34, z=-26}
+[13Apr2025 01:48:09.563] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f660c4f
+[13Apr2025 01:48:09.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CristoSuper[/127.156.200.129:59087] logged in with entity id 17318 at (2.5, 68.0, -7.5)
+[13Apr2025 01:48:09.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CristoSuper joined the game
+[13Apr2025 01:48:09.614] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to CristoSuper
+[13Apr2025 01:48:09.615] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to CristoSuper
+[13Apr2025 01:48:09.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CristoSuper has reached the goal [Easter]
+[13Apr2025 01:48:10.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CristoSuper lost connection: Disconnected
+[13Apr2025 01:48:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CristoSuper left the game
+[13Apr2025 01:49:02.016] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@444cc403
+[13Apr2025 01:49:02.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OWO[/127.156.200.129:43543] logged in with entity id 17484 at (-188.8827356337909, 94.0, -584.1156693090908)
+[13Apr2025 01:49:02.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OWO joined the game
+[13Apr2025 01:49:02.069] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to OWO
+[13Apr2025 01:49:02.070] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to OWO
+[13Apr2025 01:49:05.211] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from OWO : SUCCESS
+[13Apr2025 01:49:05.211] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[13Apr2025 01:49:05.212] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from OWO : SUCCESS
+[13Apr2025 01:49:05.212] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues

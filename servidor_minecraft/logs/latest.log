@@ -160,3 +160,8 @@
 [13Apr2025 04:25:37.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
 [13Apr2025 04:42:42.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb has made the advancement [Free the End]
 [13Apr2025 04:47:18.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[13Apr2025 05:09:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to -1744.500000, 90.000000, 242.500000
+[13Apr2025 05:10:44.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported arturrssb to -1744.500000, 0.000000, 242.500000
+[13Apr2025 05:12:10.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb moved wrongly!
+[13Apr2025 05:12:59.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: arturrssb lost connection: Timed out
+[13Apr2025 05:12:59.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: arturrssb left the game
